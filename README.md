@@ -1,3 +1,7 @@
+## Dense Earth Website
+
+All credits for the site framework go to Hundred Rabbits. See below.
+
 # Hundred Rabbits
 
 This repository is the sources for the Hundred Rabbits website. The website is written in C, and requires `gcc` to build. To rebuild the site, go to `src` and run the build script:
