@@ -17,8 +17,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
 WITH REGARD TO THIS SOFTWARE.
 */
 
-#define NAME "100R"
-#define DOMAIN "https://100r.co/"
+#define NAME "Dense Earth"
+#define DOMAIN "https://dense.earth/"
 #define LICENSE "https://github.com/hundredrabbits/100r.co/blob/master/LICENSE.by-nc-sa-4.0.md"
 #define SOURCE "https://github.com/hundredrabbits/100r.co/edit/master"
 
@@ -202,7 +202,7 @@ build(FILE *f, Lexicon *l, char *name, char *srcpath)
 	/* footer */
 	fputs("<footer><hr />", f);
 	fpedited(f, srcpath);
-	fputs("<b>Hundredrabbits</b> © 2021 — ", f);
+	fputs("<b>Dense Earth</b> © 2021 — ", f);
 	fputs("<a href='" LICENSE "' target='_blank'>BY-NC-SA 4.0</a>", f);
 	fputs("</footer>", f);
 	/* end */
