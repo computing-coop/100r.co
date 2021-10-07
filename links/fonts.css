@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'karrik';
+	src: url('/media/fonts/Karrik-Regular.ttf'),
+			 url('/media/fonts/Karrik-Regular.woff') format('woff'),
+			 url('/media/fonts/Karrik-Regular.woff2') format('woff2');
+
+}
+
+@font-face {
+	font-family: 'agipo-mono';
+	src: url('/media/fonts/agipo_mono.ttf'),
+            url('/media/fonts/agipo_mono.woff') format('woff'),
+            url('/media/fonts/agipo_mono.woff2') format('woff2');
+}
+
